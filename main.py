@@ -1,6 +1,7 @@
 import streamlit as st
 import googletrans
 from langchain.llms import CTransformers
+from streamlit.scriptrunner import add_script_run_ctx
 
 translator = googletrans.Translator()
 
