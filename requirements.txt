@@ -1,5 +1,6 @@
 langchain
 openai
 streamlit
+googletrans
 Translator
 CTransformers
