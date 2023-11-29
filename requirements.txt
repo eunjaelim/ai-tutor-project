@@ -1,6 +1,11 @@
 langchain
 openai
-streamlit
 googletrans
 Translator
 CTransformers
+pandas==2.1.0
+numpy==1.25.1
+matplotlib==3.4.3
+streamlit==1.26.0
+mplcursors==0.4
+plotly==5.1.0
