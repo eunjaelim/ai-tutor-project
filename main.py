@@ -1,3 +1,5 @@
+import pydantic; pydantic.class_validators._FUNCS.clear()
+
 import streamlit as st
 from googletrans import Translator
 from langchain.llms import CTransformers
